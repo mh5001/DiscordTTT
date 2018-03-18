@@ -45,6 +45,8 @@
         div.appendChild(callMess);
         div.appendChild(timeSpan);
         embMess.appendChild(div);
+        
+        console.log(embMess);
 
         if (nickname == mess[1]) {
           prevMess = "";

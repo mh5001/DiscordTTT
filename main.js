@@ -41,8 +41,6 @@
         timeSpan.innerHTML = timeText;
         timeSpan.style = "color: hsla(0,0%,100%,.2); font-size: 0.75rem; font-weight: 400; margin-left: 6px;";
 
-        embMess.innerHTML = "";
-
         div.appendChild(img);
         div.appendChild(callMess);
         div.appendChild(timeSpan);
